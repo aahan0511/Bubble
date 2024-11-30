@@ -8,4 +8,3 @@
 #### `Bubble` is a **multipurpose** Notes App for **Programmers**.
 
 </div>
-
