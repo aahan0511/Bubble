@@ -5,7 +5,7 @@
 # `Bubble`
 
 ### `A Notes App` for `Programmers`
+#### `Bubble` is a **multipurpose** Notes App for **Programmers**.
 
 </div>
 
----
