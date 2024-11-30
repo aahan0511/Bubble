@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="Logo.png" alt="Logo" style="border-radius: 40%" width=110>
+<img src="https://github.com/aahan0511/Bubble/blob/main/assets/icon/circle.png" alt="circle-logo" width=110>
 
-# <kbd>Bubble</kbd>
+# `Bubble`
 
 ### **`A Notes App` for `Programmers`**
 
