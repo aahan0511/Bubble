@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="https://github.com/aahan0511/Bubble/blob/main/assets/logo/circle.png" alt="assets/icon/circle.png" width=110>](https://github.com/aahan0511/Bubble "Bubble on GitHub")
+[<img src="https://github.com/aahan0511/Bubble/blob/main/assets/logo/icon.png" alt="assets/icon/circle.png" width=110>](https://github.com/aahan0511/Bubble "Bubble on GitHub")
 
 # [**`Bubble`**](https://github.com/aahan0511/Bubble "Bubble on GitHub")
 
