@@ -11,7 +11,22 @@
 
 <br><br>
 
+# **`Status`**
+
+</div>
+
+> [!NOTE]
+> This project is not yet ready. Perhaps, it has just started...
+
+> [!IMPORTANT]
+> **`Bubble`** is only for windows, it may work for other operating systems after some changes, but it may not work as intended.
+
+<br><br>
+
+<div align="center">
+
 # [**`License`**](LICENSE.md "LICENSE File")
+
 </div>
 
 Bubble is licensed under the **MIT License**.
