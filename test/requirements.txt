@@ -1,6 +1,0 @@
-customtkinter
-pillow
-CTkTable
-
-# for windows only:
-pywinstyles
